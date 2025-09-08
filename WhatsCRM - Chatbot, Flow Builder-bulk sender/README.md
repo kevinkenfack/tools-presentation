@@ -1,6 +1,6 @@
 # Presentation de WhatsCRM - Chatbot, Flow Builder, Accès API, Système SAAS CRM WhatsApp
 
-> – **AVERTISSEMENT** – Le système utilise l'[API Cloud WhatsApp Officielle](https://developers.facebook.com/docs/whatsapp/cloud-api), qui est un service payant. Vous pouvez trouver les détails de tarification actuels [ici](https://business.whatsapp.com/products/platform-pricing). Contrairement au passé, l'accès à l'API Cloud WhatsApp Officielle est maintenant ouvertement disponible pour toutes les entreprises sans processus d'examen ou d'acceptation.
+> – **AVERTISSEMENT** – Le système utilise l'[API Cloud WhatsApp Officielle](https://developers.facebook.com/docs/whatsapp/cloud-api), qui est un service payant. tu peux trouver les détails de tarification actuels [ici](https://business.whatsapp.com/products/platform-pricing). Contrairement au passé, l'accès à l'API Cloud WhatsApp Officielle est maintenant ouvertement disponible pour toutes les entreprises sans processus d'examen ou d'acceptation.
 > 
 > De plus, il ya également un module complémentaire pour WhatsApp QR, qui permet de connecter un WhatsApp en scannant simplement un code QR depuis son application mobile WhatsApp. Cette méthode est complètement gratuite.
 
