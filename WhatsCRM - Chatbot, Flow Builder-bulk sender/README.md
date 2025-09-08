@@ -80,9 +80,8 @@ WhatsCRM est un outil de marketing WhatsApp basé sur le cloud, une plateforme S
 ## Accès à l'Application
 
 **Vidéo de démonstration :** 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://youtu.be/Wg_23HLxdHc?si=TjOdmdIvICuGWeZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+je veis envoyer cela sur telegram
 
 **Frontend :** [Clique ici](http://crm.oneoftheprojects.com/)
 
