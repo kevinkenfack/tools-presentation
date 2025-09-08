@@ -4,6 +4,9 @@
 > 
 > De plus, il ya également un module complémentaire pour WhatsApp QR, qui permet de connecter un WhatsApp en scannant simplement un code QR depuis son application mobile WhatsApp. Cette méthode est complètement gratuite.
 
+> le prix de cette solution s'élève à 55 000 FCFA l'autre coutait 30 000 FCFA
+Cette différence de prix s'explique par le fait que cet outils ci en saas inclut des fonctionnalités beaucoup plus avancées que l'outils precedent
+
 WhatsCRM est un outil de marketing WhatsApp basé sur le cloud, une plateforme SaaS qui permet d'utiliser des chatbots, un système de tickets WhatsApp, un chat WhatsApp, un constructeur de flux de chatbot, un expéditeur WhatsApp en masse, un accès API que tu peux implémenter n'importe où, et bien plus encore.
 
 ![whatscrm](https://camo.envatousercontent.com/64f5000b8d5b2f86059a635f76b5cd66b0005af4/68747470733a2f2f68616d696473616966692e636f6d2f636f646563616e796f6e2f776861747363726d2f62616e6e65725f6f6e652e706e67)
